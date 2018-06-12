@@ -2,3 +2,5 @@
 -salt
 -onions
 -pepper
+- jalapenos
+- citron juice
