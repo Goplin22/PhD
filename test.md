@@ -1,4 +1,4 @@
--Avocados
--salt
--onions
--pepper
+- Avocados
+- salt
+- onions
+- pepper
