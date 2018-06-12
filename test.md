@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 - Avocados
 - salt
 - onions
 - pepper
+- Avocados
+- salt
+- onions
+- pepper
+- jalapenos
+- citron juice
